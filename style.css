@@ -1,0 +1,39 @@
+html,body,.container{
+    height: 100%;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cover{
+    height: 420px;
+    width: 400px;
+border: 2px solid blue
+;
+border-radius: 1.3rem;
+
+}
+
+.top{
+
+    height: 27%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+hr{
+    
+   width: 90%;
+   margin: 0 auto;
+   border: 1.4px solid beige;
+}
+
+.h{
+    height: 30px;
+}
